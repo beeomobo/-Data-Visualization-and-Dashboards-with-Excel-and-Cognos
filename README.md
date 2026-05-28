@@ -32,20 +32,20 @@ The following visualizations were created in Excel to analyze dealership sales a
 _KPI Visualizations_
 
 1. Quantity Sold by Dealer ID
-**Visualization Type:** Bar Chart
-**Purpose:** Compare vehicle sales volume across dealerships.
+
+**Visualization Type:** Bar Chart | **Purpose:** Compare vehicle sales volume across dealerships.
 
 2. Profit by Date and Model
-**Visualization Type:** Line Chart
-**Purpose:** Analyze profit trends over time by vehicle model.
+
+**Visualization Type:** Line Chart | **Purpose:** Analyze profit trends over time by vehicle model.
 
 3. Profit by Year and Dealer ID
-**Visualization Type:** Column Chart
-**Purpose:** Evaluate yearly dealership profitability.
+
+**Visualization Type:** Column Chart | **Purpose:** Evaluate yearly dealership profitability.
 
 4. Sum of Profits for Hudson Model Cars by Dealer ID
-**Visualization Type:** Line Chart
-**Purpose:** Identify top-performing dealers for Hudson model sales.
+
+**Visualization Type:** Line Chart | **Purpose:** Identify top-performing dealers for Hudson model sales.
 
 -------------------------------------------------------------------------------
 
