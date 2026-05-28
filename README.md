@@ -97,10 +97,5 @@ This dashboard helps stakeholders:
 * Analytical Thinking
 
 
-**Project Files**
-This repository contains:
-
-* Excel visualization files
-* Cognos dashboard screenshots/reports
-* Project documentation
-
+#DataAnalyst
+#DataVisualization
